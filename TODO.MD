@@ -1,2 +1,3 @@
+- Add the implementation of the "Status Bar" and the "Side Panel Informations" text area.
 - Setup the "How to use?" and the "About" dialogs.
 - Add a logging system.
