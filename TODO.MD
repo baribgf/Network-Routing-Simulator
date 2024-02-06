@@ -1,0 +1,2 @@
+- Setup the "How to use?" and the "About" dialogs.
+- Add a logging system.
